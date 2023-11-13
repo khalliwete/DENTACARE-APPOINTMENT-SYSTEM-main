@@ -114,7 +114,7 @@
     display: contents;
     align-items: center;
     justify-content: center;
-    background-origin: inherit;
+    background-color: #00ccff;
     border-radius: 50%;
     transform: rotate(0deg);
 }
