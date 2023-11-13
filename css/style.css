@@ -109,9 +109,9 @@
 }
 
 .service-item .service-icon {
-    width: 100px;
+    width: 150px;
     height: 100px;
-    display: contents;
+    display: grid;
     align-items: center;
     justify-content: center;
     background: var(--primary);
