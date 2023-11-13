@@ -109,9 +109,9 @@
 }
 
 .service-item .service-icon {
-    width: 150px;
+    width: 100px;
     height: 100px;
-    display: flex;
+    display: contents;
     align-items: center;
     justify-content: center;
     background: var(--primary);
@@ -120,6 +120,7 @@
 }
 
 .service-item .service-icon i {
+
     transform: rotate(0deg);
 }
 
